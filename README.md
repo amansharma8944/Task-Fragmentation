@@ -1,3 +1,5 @@
+I have created 4 components.  
+
 1. BurnPageContainer.ts:
                  a.>  Serves as the main layout component that wraps the entire burn page, including the dashboard layout, chain selector, and toast notifications.
                  Reason: Isolating the layout allows for easy adjustments to the page's structure without touching the business logic of individual features.
